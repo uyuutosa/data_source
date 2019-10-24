@@ -1,0 +1,5 @@
+sample/directory_type1 filter=lfs diff=lfs merge=lfs -text
+sample/directory_type2 filter=lfs diff=lfs merge=lfs -text
+sample/dog.mov filter=lfs diff=lfs merge=lfs -text
+sample/iris.csv filter=lfs diff=lfs merge=lfs -text
+sample/** filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,5 @@
+glob2
+opencv-python
+pandas
+pillow
+termcolor
